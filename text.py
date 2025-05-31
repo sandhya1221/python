@@ -1,0 +1,3 @@
+#u ar given a string S,consisting of lowercase english letter u can apply this operation to the string S exactly once.choose any index i and move the character S[i] to the beginning of the string(deleting it from the th original position fnd the lexicographically minimal string that can be obtained after perfoming operation)
+#input format:the input consists of a single line the line contains the sting S
+S=chr(a)
